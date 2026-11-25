@@ -1,0 +1,52 @@
+groupe,code,secteur,annee,pib_mdh,part_pib_pct
+Primaire,A00,Agriculture et sylviculture,2023,161801,10.891
+Primaire,A00,Agriculture et sylviculture,2024,163642,10.1353
+Primaire,A00,Agriculture et sylviculture,2025,172605,10.034
+Primaire,A05,Pêche et aquaculture,2023,7473,0.503
+Primaire,A05,Pêche et aquaculture,2024,8784,0.544
+Primaire,A05,Pêche et aquaculture,2025,9322,0.5419
+Secondaire,B00,Industries d'extraction,2023,23830,1.604
+Secondaire,B00,Industries d'extraction,2024,33390,2.068
+Secondaire,B00,Industries d'extraction,2025,41485,2.4116
+Secondaire,C00,Industries manufacturières,2023,232892,15.6763
+Secondaire,C00,Industries manufacturières,2024,246557,15.2708
+Secondaire,C00,Industries manufacturières,2025,247916,14.412
+Secondaire,DE0,"Électricité, gaz, eau, assainissement, déchets",2023,34446,2.3186
+Secondaire,DE0,"Électricité, gaz, eau, assainissement, déchets",2024,41755,2.5861
+Secondaire,DE0,"Électricité, gaz, eau, assainissement, déchets",2025,41617,2.4193
+Secondaire,F00,Construction,2023,82897,5.5799
+Secondaire,F00,Construction,2024,91647,5.6763
+Secondaire,F00,Construction,2025,99636,5.7921
+Tertiaire,G00,Commerce et réparation de véhicules,2023,160733,10.8191
+Tertiaire,G00,Commerce et réparation de véhicules,2024,168775,10.4533
+Tertiaire,G00,Commerce et réparation de véhicules,2025,178949,10.4028
+Tertiaire,H00,Transports et entreposage,2023,44741,3.0116
+Tertiaire,H00,Transports et entreposage,2024,50485,3.1268
+Tertiaire,H00,Transports et entreposage,2025,53807,3.1279
+Tertiaire,I00,Hébergement et restauration,2023,59392,3.9978
+Tertiaire,I00,Hébergement et restauration,2024,65759,4.0729
+Tertiaire,I00,Hébergement et restauration,2025,73176,4.2539
+Tertiaire,J00,Information et communication,2023,35159,2.3666
+Tertiaire,J00,Information et communication,2024,36389,2.2538
+Tertiaire,J00,Information et communication,2025,36149,2.1014
+Tertiaire,K00,Activités financières et assurance,2023,68272,4.5955
+Tertiaire,K00,Activités financières et assurance,2024,77945,4.8276
+Tertiaire,K00,Activités financières et assurance,2025,79749,4.636
+Tertiaire,L68,Activités immobilières,2023,94574,6.3659
+Tertiaire,L68,Activités immobilières,2024,97149,6.017
+Tertiaire,L68,Activités immobilières,2025,101260,5.8865
+Tertiaire,MN0,Recherche-développement et services aux entreprises,2023,77368,5.2077
+Tertiaire,MN0,Recherche-développement et services aux entreprises,2024,83271,5.1575
+Tertiaire,MN0,Recherche-développement et services aux entreprises,2025,87791,5.1035
+Tertiaire,O84,Administration publique et sécurité sociale,2023,136830,9.2102
+Tertiaire,O84,Administration publique et sécurité sociale,2024,146461,9.0712
+Tertiaire,O84,Administration publique et sécurité sociale,2025,154689,8.9925
+Tertiaire,PQ8,"Éducation, santé et action sociale",2023,102938,6.9289
+Tertiaire,PQ8,"Éducation, santé et action sociale",2024,110464,6.8417
+Tertiaire,PQ8,"Éducation, santé et action sociale",2025,121059,7.0375
+Tertiaire,RS0,Autres services,2023,16812,1.1316
+Tertiaire,RS0,Autres services,2024,17934,1.1108
+Tertiaire,RS0,Autres services,2025,18537,1.0776
+Impôts,D21-31,Impôts sur les produits nets des subventions,2023,145477,9.7922
+Impôts,D21-31,Impôts sur les produits nets des subventions,2024,174162,10.7869
+Impôts,D21-31,Impôts sur les produits nets des subventions,2025,202454,11.7692

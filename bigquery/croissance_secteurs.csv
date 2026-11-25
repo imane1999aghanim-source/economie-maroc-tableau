@@ -1,0 +1,55 @@
+code,secteur,annee,croissance_volume_pct
+A00,Agriculture et sylviculture,2023,1.5
+A00,Agriculture et sylviculture,2024,-5.7
+A00,Agriculture et sylviculture,2025,8.2
+A05,Pêche et aquaculture,2023,6.9
+A05,Pêche et aquaculture,2024,8.8
+A05,Pêche et aquaculture,2025,-13.0
+B00,Industries d'extraction,2023,-4.2
+B00,Industries d'extraction,2024,11.5
+B00,Industries d'extraction,2025,7.5
+C00,Industries manufacturières,2023,3.2
+C00,Industries manufacturières,2024,2.1
+C00,Industries manufacturières,2025,1.9
+DE0,"Électricité, gaz, eau, assainissement, déchets",2023,-10.6
+DE0,"Électricité, gaz, eau, assainissement, déchets",2024,5.4
+DE0,"Électricité, gaz, eau, assainissement, déchets",2025,0.6
+F00,Construction,2023,0.4
+F00,Construction,2024,6.0
+F00,Construction,2025,6.7
+G00,Commerce et réparation de véhicules,2023,3.1
+G00,Commerce et réparation de véhicules,2024,3.8
+G00,Commerce et réparation de véhicules,2025,4.2
+H00,Transports et entreposage,2023,6.8
+H00,Transports et entreposage,2024,8.5
+H00,Transports et entreposage,2025,4.2
+I00,Hébergement et restauration,2023,23.5
+I00,Hébergement et restauration,2024,8.4
+I00,Hébergement et restauration,2025,7.0
+J00,Information et communication,2023,5.4
+J00,Information et communication,2024,2.9
+J00,Information et communication,2025,-0.5
+K00,Activités financières et assurance,2023,6.2
+K00,Activités financières et assurance,2024,9.1
+K00,Activités financières et assurance,2025,5.5
+L68,Activités immobilières,2023,2.7
+L68,Activités immobilières,2024,2.7
+L68,Activités immobilières,2025,3.1
+MN0,Recherche-développement et services aux entreprises,2023,6.8
+MN0,Recherche-développement et services aux entreprises,2024,6.0
+MN0,Recherche-développement et services aux entreprises,2025,3.7
+O84,Administration publique et sécurité sociale,2023,2.1
+O84,Administration publique et sécurité sociale,2024,5.9
+O84,Administration publique et sécurité sociale,2025,3.4
+PQ8,"Éducation, santé et action sociale",2023,4.6
+PQ8,"Éducation, santé et action sociale",2024,6.7
+PQ8,"Éducation, santé et action sociale",2025,6.7
+RS0,Autres services,2023,2.0
+RS0,Autres services,2024,5.3
+RS0,Autres services,2025,2.7
+TOTAL,Valeur ajoutée totale,2023,3.6
+TOTAL,Valeur ajoutée totale,2024,3.8
+TOTAL,Valeur ajoutée totale,2025,4.4
+D21-31,Impôts sur les produits nets des subventions,2023,5.6
+D21-31,Impôts sur les produits nets des subventions,2024,9.7
+D21-31,Impôts sur les produits nets des subventions,2025,9.0

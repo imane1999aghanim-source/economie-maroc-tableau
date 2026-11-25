@@ -1,0 +1,193 @@
+flux,code,produit,niveau,annee,valeur_mdh
+Exportations,A00,Agriculture et sylviculture,detail,2023,37263
+Exportations,A00,Agriculture et sylviculture,detail,2024,40644
+Exportations,A00,Agriculture et sylviculture,detail,2025,42712
+Exportations,A05,Pêche et aquaculture,detail,2023,1852
+Exportations,A05,Pêche et aquaculture,detail,2024,1748
+Exportations,A05,Pêche et aquaculture,detail,2025,1631
+Exportations,B00,Extraction,detail,2023,13149
+Exportations,B00,Extraction,detail,2024,14014
+Exportations,B00,Extraction,detail,2025,15678
+Exportations,C00,Industries manufacturières (total),total_manufacturier,2023,337165
+Exportations,C00,Industries manufacturières (total),total_manufacturier,2024,357618
+Exportations,C00,Industries manufacturières (total),total_manufacturier,2025,372168
+Exportations,CA0,"Produits alimentaires, boissons et tabac",detail,2023,43045
+Exportations,CA0,"Produits alimentaires, boissons et tabac",detail,2024,43217
+Exportations,CA0,"Produits alimentaires, boissons et tabac",detail,2025,41627
+Exportations,CB0,"Textiles, habillement, cuir",detail,2023,28776
+Exportations,CB0,"Textiles, habillement, cuir",detail,2024,27685
+Exportations,CB0,"Textiles, habillement, cuir",detail,2025,25811
+Exportations,CC0,"Bois, papier, imprimerie",detail,2023,2283
+Exportations,CC0,"Bois, papier, imprimerie",detail,2024,2194
+Exportations,CC0,"Bois, papier, imprimerie",detail,2025,1910
+Exportations,CD0,Cokéfaction et raffinage,detail,2023,4823
+Exportations,CD0,Cokéfaction et raffinage,detail,2024,4949
+Exportations,CD0,Cokéfaction et raffinage,detail,2025,4876
+Exportations,CE0,Produits chimiques,detail,2023,71356
+Exportations,CE0,Produits chimiques,detail,2024,81129
+Exportations,CE0,Produits chimiques,detail,2025,92847
+Exportations,CF0,Produits pharmaceutiques,detail,2023,1623
+Exportations,CF0,Produits pharmaceutiques,detail,2024,1731
+Exportations,CF0,Produits pharmaceutiques,detail,2025,1739
+Exportations,CG0,"Caoutchouc, plastique, minéraux non métalliques",detail,2023,7983
+Exportations,CG0,"Caoutchouc, plastique, minéraux non métalliques",detail,2024,7849
+Exportations,CG0,"Caoutchouc, plastique, minéraux non métalliques",detail,2025,9213
+Exportations,CH0,Métallurgie et ouvrages en métaux,detail,2023,8924
+Exportations,CH0,Métallurgie et ouvrages en métaux,detail,2024,9831
+Exportations,CH0,Métallurgie et ouvrages en métaux,detail,2025,11636
+Exportations,CI0,"Ordinateurs, électronique, optique",detail,2023,5520
+Exportations,CI0,"Ordinateurs, électronique, optique",detail,2024,5033
+Exportations,CI0,"Ordinateurs, électronique, optique",detail,2025,4607
+Exportations,CJ0,Équipements électriques,detail,2023,36107
+Exportations,CJ0,Équipements électriques,detail,2024,40102
+Exportations,CJ0,Équipements électriques,detail,2025,39697
+Exportations,CK0,Machines et matériel n.c.a.,detail,2023,3827
+Exportations,CK0,Machines et matériel n.c.a.,detail,2024,3737
+Exportations,CK0,Machines et matériel n.c.a.,detail,2025,3708
+Exportations,CL0,Matériel de transport,detail,2023,116387
+Exportations,CL0,Matériel de transport,detail,2024,123940
+Exportations,CL0,Matériel de transport,detail,2025,126480
+Exportations,CM0,"Autres industries (meubles, réparation)",detail,2023,6511
+Exportations,CM0,"Autres industries (meubles, réparation)",detail,2024,6221
+Exportations,CM0,"Autres industries (meubles, réparation)",detail,2025,8017
+Exportations,DE0,"Électricité, gaz, eau, déchets",detail,2023,3388
+Exportations,DE0,"Électricité, gaz, eau, déchets",detail,2024,1906
+Exportations,DE0,"Électricité, gaz, eau, déchets",detail,2025,1980
+Exportations,F00,Construction,detail,2023,3096
+Exportations,F00,Construction,detail,2024,4588
+Exportations,F00,Construction,detail,2025,4866
+Exportations,G00,Commerce et réparation de véhicules,detail,2023,1488
+Exportations,G00,Commerce et réparation de véhicules,detail,2024,1589
+Exportations,G00,Commerce et réparation de véhicules,detail,2025,1605
+Exportations,H00,Transports et entreposage,detail,2023,39929
+Exportations,H00,Transports et entreposage,detail,2024,44383
+Exportations,H00,Transports et entreposage,detail,2025,46836
+Exportations,I00,Hébergement et restauration,detail,2023,4881
+Exportations,I00,Hébergement et restauration,detail,2024,5199
+Exportations,I00,Hébergement et restauration,detail,2025,6293
+Exportations,J00,Information et communication,detail,2023,24872
+Exportations,J00,Information et communication,detail,2024,26775
+Exportations,J00,Information et communication,detail,2025,26616
+Exportations,K00,Activités financières et assurance,detail,2023,2227
+Exportations,K00,Activités financières et assurance,detail,2024,2730
+Exportations,K00,Activités financières et assurance,detail,2025,2343
+Exportations,L68,Activités immobilières,detail,2023,997
+Exportations,L68,Activités immobilières,detail,2024,941
+Exportations,L68,Activités immobilières,detail,2025,785
+Exportations,MN0,R&D et services aux entreprises,detail,2023,44633
+Exportations,MN0,R&D et services aux entreprises,detail,2024,50160
+Exportations,MN0,R&D et services aux entreprises,detail,2025,54829
+Exportations,O84,Administration publique,detail,2023,0
+Exportations,O84,Administration publique,detail,2024,0
+Exportations,O84,Administration publique,detail,2025,0
+Exportations,PQ8,"Éducation, santé, action sociale",detail,2023,98
+Exportations,PQ8,"Éducation, santé, action sociale",detail,2024,158
+Exportations,PQ8,"Éducation, santé, action sociale",detail,2025,125
+Exportations,RS0,Autres services,detail,2023,64
+Exportations,RS0,Autres services,detail,2024,74
+Exportations,RS0,Autres services,detail,2025,83
+Exportations,U99,Correction territoriale (HCP),detail,2023,112578
+Exportations,U99,Correction territoriale (HCP),detail,2024,119722
+Exportations,U99,Correction territoriale (HCP),detail,2025,142936
+Importations,A00,Agriculture et sylviculture,detail,2023,45779
+Importations,A00,Agriculture et sylviculture,detail,2024,49151
+Importations,A00,Agriculture et sylviculture,detail,2025,49167
+Importations,A05,Pêche et aquaculture,detail,2023,304
+Importations,A05,Pêche et aquaculture,detail,2024,292
+Importations,A05,Pêche et aquaculture,detail,2025,346
+Importations,B00,Extraction,detail,2023,27265
+Importations,B00,Extraction,detail,2024,22740
+Importations,B00,Extraction,detail,2025,29707
+Importations,C00,Industries manufacturières (total),total_manufacturier,2023,543369
+Importations,C00,Industries manufacturières (total),total_manufacturier,2024,583281
+Importations,C00,Industries manufacturières (total),total_manufacturier,2025,634244
+Importations,CA0,"Produits alimentaires, boissons et tabac",detail,2023,49014
+Importations,CA0,"Produits alimentaires, boissons et tabac",detail,2024,46843
+Importations,CA0,"Produits alimentaires, boissons et tabac",detail,2025,51624
+Importations,CB0,"Textiles, habillement, cuir",detail,2023,31252
+Importations,CB0,"Textiles, habillement, cuir",detail,2024,33179
+Importations,CB0,"Textiles, habillement, cuir",detail,2025,35548
+Importations,CC0,"Bois, papier, imprimerie",detail,2023,15521
+Importations,CC0,"Bois, papier, imprimerie",detail,2024,17009
+Importations,CC0,"Bois, papier, imprimerie",detail,2025,18727
+Importations,CD0,Cokéfaction et raffinage,detail,2023,92194
+Importations,CD0,Cokéfaction et raffinage,detail,2024,89989
+Importations,CD0,Cokéfaction et raffinage,detail,2025,82136
+Importations,CE0,Produits chimiques,detail,2023,49975
+Importations,CE0,Produits chimiques,detail,2024,54227
+Importations,CE0,Produits chimiques,detail,2025,56738
+Importations,CF0,Produits pharmaceutiques,detail,2023,9965
+Importations,CF0,Produits pharmaceutiques,detail,2024,11418
+Importations,CF0,Produits pharmaceutiques,detail,2025,13238
+Importations,CG0,"Caoutchouc, plastique, minéraux non métalliques",detail,2023,30573
+Importations,CG0,"Caoutchouc, plastique, minéraux non métalliques",detail,2024,33852
+Importations,CG0,"Caoutchouc, plastique, minéraux non métalliques",detail,2025,36756
+Importations,CH0,Métallurgie et ouvrages en métaux,detail,2023,51845
+Importations,CH0,Métallurgie et ouvrages en métaux,detail,2024,57107
+Importations,CH0,Métallurgie et ouvrages en métaux,detail,2025,65017
+Importations,CI0,"Ordinateurs, électronique, optique",detail,2023,29376
+Importations,CI0,"Ordinateurs, électronique, optique",detail,2024,29599
+Importations,CI0,"Ordinateurs, électronique, optique",detail,2025,33499
+Importations,CJ0,Équipements électriques,detail,2023,37211
+Importations,CJ0,Équipements électriques,detail,2024,39967
+Importations,CJ0,Équipements électriques,detail,2025,43668
+Importations,CK0,Machines et matériel n.c.a.,detail,2023,35280
+Importations,CK0,Machines et matériel n.c.a.,detail,2024,42663
+Importations,CK0,Machines et matériel n.c.a.,detail,2025,47210
+Importations,CL0,Matériel de transport,detail,2023,91651
+Importations,CL0,Matériel de transport,detail,2024,104470
+Importations,CL0,Matériel de transport,detail,2025,122463
+Importations,CM0,"Autres industries (meubles, réparation)",detail,2023,19512
+Importations,CM0,"Autres industries (meubles, réparation)",detail,2024,22958
+Importations,CM0,"Autres industries (meubles, réparation)",detail,2025,27620
+Importations,DE0,"Électricité, gaz, eau, déchets",detail,2023,6527
+Importations,DE0,"Électricité, gaz, eau, déchets",detail,2024,6056
+Importations,DE0,"Électricité, gaz, eau, déchets",detail,2025,7607
+Importations,F00,Construction,detail,2023,2653
+Importations,F00,Construction,detail,2024,3849
+Importations,F00,Construction,detail,2025,5593
+Importations,G00,Commerce et réparation de véhicules,detail,2023,1041
+Importations,G00,Commerce et réparation de véhicules,detail,2024,1199
+Importations,G00,Commerce et réparation de véhicules,detail,2025,1000
+Importations,H00,Transports et entreposage,detail,2023,54714
+Importations,H00,Transports et entreposage,detail,2024,58145
+Importations,H00,Transports et entreposage,detail,2025,62112
+Importations,I00,Hébergement et restauration,detail,2023,4419
+Importations,I00,Hébergement et restauration,detail,2024,4407
+Importations,I00,Hébergement et restauration,detail,2025,3194
+Importations,J00,Information et communication,detail,2023,12027
+Importations,J00,Information et communication,detail,2024,13414
+Importations,J00,Information et communication,detail,2025,13589
+Importations,K00,Activités financières et assurance,detail,2023,3020
+Importations,K00,Activités financières et assurance,detail,2024,2823
+Importations,K00,Activités financières et assurance,detail,2025,3615
+Importations,L68,Activités immobilières,detail,2023,74
+Importations,L68,Activités immobilières,detail,2024,134
+Importations,L68,Activités immobilières,detail,2025,68
+Importations,MN0,R&D et services aux entreprises,detail,2023,20243
+Importations,MN0,R&D et services aux entreprises,detail,2024,23513
+Importations,MN0,R&D et services aux entreprises,detail,2025,28194
+Importations,O84,Administration publique,detail,2023,0
+Importations,O84,Administration publique,detail,2024,0
+Importations,O84,Administration publique,detail,2025,0
+Importations,PQ8,"Éducation, santé, action sociale",detail,2023,343
+Importations,PQ8,"Éducation, santé, action sociale",detail,2024,411
+Importations,PQ8,"Éducation, santé, action sociale",detail,2025,543
+Importations,RS0,Autres services,detail,2023,24
+Importations,RS0,Autres services,detail,2024,31
+Importations,RS0,Autres services,detail,2025,18
+Importations,U99,Correction territoriale (HCP),detail,2023,28478
+Importations,U99,Correction territoriale (HCP),detail,2024,32067
+Importations,U99,Correction territoriale (HCP),detail,2025,35352
+Exportations,P.61,Biens,synthese_biens_services,2023,396121
+Exportations,P.61,Biens,synthese_biens_services,2024,420760
+Exportations,P.61,Biens,synthese_biens_services,2025,439254
+Exportations,P.62,Services,synthese_biens_services,2023,231559
+Exportations,P.62,Services,synthese_biens_services,2024,251489
+Exportations,P.62,Services,synthese_biens_services,2025,282232
+Importations,P.71,Biens,synthese_biens_services,2023,626908
+Importations,P.71,Biens,synthese_biens_services,2024,666412
+Importations,P.71,Biens,synthese_biens_services,2025,727691
+Importations,P.72,Services,synthese_biens_services,2023,123372
+Importations,P.72,Services,synthese_biens_services,2024,135101
+Importations,P.72,Services,synthese_biens_services,2025,146658
