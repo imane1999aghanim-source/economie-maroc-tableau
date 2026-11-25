@@ -1,0 +1,52 @@
+secteur,annee,pib_mdh,pib_annee_precedente,evolution_mdh,croissance_pct
+Construction,2023,82897,,,
+"Électricité, gaz, eau, assainissement, déchets",2023,34446,,,
+"Éducation, santé et action sociale",2023,102938,,,
+Activités immobilières,2023,94574,,,
+Transports et entreposage,2023,44741,,,
+Recherche-développement et services aux entreprises,2023,77368,,,
+Administration publique et sécurité sociale,2023,136830,,,
+Pêche et aquaculture,2023,7473,,,
+Information et communication,2023,35159,,,
+Agriculture et sylviculture,2023,161801,,,
+Industries manufacturières,2023,232892,,,
+Industries d'extraction,2023,23830,,,
+Autres services,2023,16812,,,
+Activités financières et assurance,2023,68272,,,
+Impôts sur les produits nets des subventions,2023,145477,,,
+Commerce et réparation de véhicules,2023,160733,,,
+Hébergement et restauration,2023,59392,,,
+Impôts sur les produits nets des subventions,2024,174162,145477,28685,19.72
+Industries manufacturières,2024,246557,232892,13665,5.87
+Activités financières et assurance,2024,77945,68272,9673,14.17
+Administration publique et sécurité sociale,2024,146461,136830,9631,7.04
+Industries d'extraction,2024,33390,23830,9560,40.12
+Construction,2024,91647,82897,8750,10.56
+Commerce et réparation de véhicules,2024,168775,160733,8042,5.0
+"Éducation, santé et action sociale",2024,110464,102938,7526,7.31
+"Électricité, gaz, eau, assainissement, déchets",2024,41755,34446,7309,21.22
+Hébergement et restauration,2024,65759,59392,6367,10.72
+Recherche-développement et services aux entreprises,2024,83271,77368,5903,7.63
+Transports et entreposage,2024,50485,44741,5744,12.84
+Activités immobilières,2024,97149,94574,2575,2.72
+Agriculture et sylviculture,2024,163642,161801,1841,1.14
+Pêche et aquaculture,2024,8784,7473,1311,17.54
+Information et communication,2024,36389,35159,1230,3.5
+Autres services,2024,17934,16812,1122,6.67
+Impôts sur les produits nets des subventions,2025,202454,174162,28292,16.24
+"Éducation, santé et action sociale",2025,121059,110464,10595,9.59
+Commerce et réparation de véhicules,2025,178949,168775,10174,6.03
+Agriculture et sylviculture,2025,172605,163642,8963,5.48
+Administration publique et sécurité sociale,2025,154689,146461,8228,5.62
+Industries d'extraction,2025,41485,33390,8095,24.24
+Construction,2025,99636,91647,7989,8.72
+Hébergement et restauration,2025,73176,65759,7417,11.28
+Recherche-développement et services aux entreprises,2025,87791,83271,4520,5.43
+Activités immobilières,2025,101260,97149,4111,4.23
+Transports et entreposage,2025,53807,50485,3322,6.58
+Activités financières et assurance,2025,79749,77945,1804,2.31
+Industries manufacturières,2025,247916,246557,1359,0.55
+Autres services,2025,18537,17934,603,3.36
+Pêche et aquaculture,2025,9322,8784,538,6.12
+"Électricité, gaz, eau, assainissement, déchets",2025,41617,41755,-138,-0.33
+Information et communication,2025,36149,36389,-240,-0.66

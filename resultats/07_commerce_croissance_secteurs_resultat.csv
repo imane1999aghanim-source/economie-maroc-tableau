@@ -1,0 +1,10 @@
+annee,secteur,croissance_pct,exportations_mdh,importations_mdh,solde_commercial_mdh,taux_couverture_pct
+2023,Agriculture,1.7,39115,46083,-6968,85.0
+2023,Industrie et bâtiment,0.8,356798,579814,-223016,62.0
+2023,Services,5.5,231767,124383,107384,186.0
+2024,Agriculture,-5.0,42392,49443,-7051,86.0
+2024,Industrie et bâtiment,4.1,378126,615926,-237800,61.0
+2024,Services,5.7,251731,136144,115587,185.0
+2025,Agriculture,7.1,44343,49513,-5170,90.0
+2025,Industrie et bâtiment,3.4,394692,677151,-282459,58.0
+2025,Services,4.3,282451,147685,134766,191.0
